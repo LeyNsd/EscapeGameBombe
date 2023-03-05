@@ -1,2 +1,2 @@
 # EscapeGameBombe
-code+schéma arduino pour créer une bombe d'escape game
+Créer une bombe d'escape game avec un arduino.
